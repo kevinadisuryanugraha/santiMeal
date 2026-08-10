@@ -1,0 +1,6 @@
+{
+  "name": "SantriMeal AI",
+  "description": "Sistem Konsumsi Santri Berbasis RFID & AI Analytics untuk Pesantren",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
